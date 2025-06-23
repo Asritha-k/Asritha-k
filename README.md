@@ -32,10 +32,6 @@ I recently earned my **Master’s in Computer Science** from **Auburn University
 
 - 📧 Email: [asritharao6@gmail.com](mailto:asritharao6@gmail.com)  
 
-Thanks for visiting my GitHub! Always open to connecting, collaborating, or learning something new.
-
-
-### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asritha-rao610/)
 
 ---
@@ -55,3 +51,5 @@ Thanks for visiting my GitHub! Always open to connecting, collaborating, or lear
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
 </p>
+
+Thanks for visiting my GitHub! Always open to connecting, collaborating, or learning something new.
