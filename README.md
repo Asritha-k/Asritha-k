@@ -32,7 +32,7 @@ I recently earned my **Master’s in Computer Science** from **Auburn University
 
 - 📧 Email: [asritharao6@gmail.com](mailto:asritharao6@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asritha-rao610/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asritha-rao610/)
 
 ---
 
